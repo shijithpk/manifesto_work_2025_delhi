@@ -12,7 +12,7 @@ First, you'll need to create an .env file at the root of the project with a 'GEM
 
 (You can do two requests per minute to the API if you're in the free tier, change `time.sleep` to `30` seconds to be in line with free tier rate limits.)
 
-If you haven't already, install Google's package to access the Gemini API with `pip install google-genai` (You might need to `pip install python-dotenv` too).
+If you haven't already, install Google's package to access the Gemini API with `pip install google-genai` (You might need to `pip install python-dotenv` to access the 'GEMINI_API_KEY' in the .env file).
 
 Then to extract the text from say the bjp pdf, you can run [extract_pdf.py](code/extract_pdf.py). The script run took around 15 minutes for the BJP manifesto.
 
