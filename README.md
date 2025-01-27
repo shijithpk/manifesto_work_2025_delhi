@@ -1,15 +1,23 @@
 # About the repo
 Collecting code and docs related to some work on party manifestos for Delhi assembly elections in 2025. The code here essentially generates a comparison of the various manifestos using Google's Gemini AI. So this is an attempt to automate this work using AI with minimal human intervention.
 
-# To Reproduce Results 
+## To Reproduce Results 
 You can use the python scripts in the [code](/code) folder to reproduce the results. 
+
 First, you'll need to create an .env file at the root of the project with a 'GEMINI_API_KEY' variable. You can get an API key from Google's [AI Studio](https://aistudio.google.com/).
+
 (You can do two requests per minute to the API if you're in the free tier, change `time.sleep` to `30` seconds to be in line with free tier rate limits.)
+
 Then if you haven't already install Google's package to access the Gemini API with `pip install -U -q google-genai` (You might need to `pip install python-dotenv` too).
+
 Then to extract the text from say the bjp pdf, you can run `python code/extract_pdf.py`. The script run took around 15 minutes for the BJP manifesto.
+
 (You'll also have to change a variable in the function call `extract_pdf_content('2025', 'dl', 'bjp')` to  `extract_pdf_content('2025', 'dl', 'cong')` to get at the congress pdf.)
+
 There's also a [pdf translation script](code/translate_pdf.py) in there to translate a hindi pdf into english markdown. Ultimately didn't need it because parties released English versions of their manifestos, but prepared a script anyway to be on the safe side.
+
 Then run the script [create_comparison.py](code/create_comparison.py) to combine the markdown files and create a summary comparison of the various party manifestos.
+
 The script will compare the manifestos on these issues:
   1. Pollution
   2. Inflation & Cost of Living
