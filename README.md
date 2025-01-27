@@ -1,5 +1,9 @@
 ## About the repo
-Collecting code and docs related to some work on party manifestos for Delhi assembly elections in 2025. The code here essentially generates a comparison of the various manifestos using Google's Gemini AI. So this is an attempt to automate this work using AI with minimal human intervention.
+Collecting code and docs related to some work on party manifestos for Delhi assembly elections in 2025.
+
+The code here essentially generates a comparison of the various manifestos using Google's Gemini AI. 
+
+So this is an attempt to automate this work using AI with minimal human intervention.
 
 ### To Reproduce Results 
 You can use the python scripts in the [code](/code) folder to reproduce the results. 
