@@ -18,7 +18,7 @@ Then to extract the text from say the bjp pdf, you can run [extract_pdf.py](code
 
 (You'll have to change a variable in the function call `extract_pdf_content('2025', 'dl', 'bjp')` to  `extract_pdf_content('2025', 'dl', 'cong')` to get at the congress pdf. Or to 'aap' to get at the aam aadmi party pdf and so on.)
 
-There's also a [pdf translation script](code/translate_pdf.py) in there to translate a hindi pdf into english markdown. Ultimately didn't need it because parties released English versions of their manifestos, but prepared a script anyway to be on the safe side.
+There's also a [pdf translation script](code/translate_pdf.py) in there to translate a hindi pdf into english markdown. Ultimately didn't need it because the parties released English versions of their manifestos, but prepared a script anyway to be on the safe side.
 
 Then run the script [create_comparison.py](code/create_comparison.py) to combine the markdown files and create a summary comparison of the various party manifestos.
 
