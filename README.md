@@ -1,7 +1,7 @@
-# About the repo
+## About the repo
 Collecting code and docs related to some work on party manifestos for Delhi assembly elections in 2025. The code here essentially generates a comparison of the various manifestos using Google's Gemini AI. So this is an attempt to automate this work using AI with minimal human intervention.
 
-## To Reproduce Results 
+### To Reproduce Results 
 You can use the python scripts in the [code](/code) folder to reproduce the results. 
 
 First, you'll need to create an .env file at the root of the project with a 'GEMINI_API_KEY' variable. You can get an API key from Google's [AI Studio](https://aistudio.google.com/).
@@ -38,7 +38,7 @@ So on each issue, you'll get upto 5 promises/pledges related to the issue made b
 
 The comparison created will be in [comparison_text.json](manifestos/comparison_text.json). So this is in a machine-readable json format, because I'll be using it for a widget. But you can take the json, feed it into chatgpt etc. to get it as human-readable text.
 
-# Sources
+### Sources
 * BJP manifesto [link](https://www.bjp.org/files/election-manifesto-documents/Delhi-Manifesto_25-01-2025_English_0.pdf)
 * AAP manifesto
 * Congress manifesto
