@@ -48,7 +48,7 @@ The comparison created will be in [comparison_text.json](manifestos/comparison_t
 
 A last script [get_supporting_text.py](code/get_supporting_text.py) is something i created to help people out in newsrooms. What it does is for each promise in comparison_text.json, it gets the line the promise is made in from the manifesto. 
 
-It makes it a little easier for someone else to manually verify what the AI has done. Since the points in comparison_text.json may be rewritten a big, they might not be able to do a Ctrl+F in the manifesto to find the line. Also if they want to check things in the pdf itself, the pdf may not be searchable. This supporting text script makes things easier.
+It makes it a little easier for someone else to manually verify what the AI has done. Since the points in comparison_text.json may be rewritten a bit, they might not be able to do a Ctrl+F in the manifesto to find the line. Also if they want to check things in the pdf itself, the pdf may not be searchable. This supporting text script makes things easier.
 
 ### Sources
 * BJP manifesto [link](https://www.bjp.org/files/election-manifesto-documents/Delhi-Manifesto_25-01-2025_English_0.pdf)
