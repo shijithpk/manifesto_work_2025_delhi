@@ -1,0 +1,315 @@
+{
+  "Pollution": {
+    "AAP": [
+      "Reduce pollution to a third of current levels",
+      "Plant over 2 crore trees for a greener Delhi",
+      "Clean and rejuvenate Yamuna",
+      "Develop a beautiful riverside along the banks of Yamuna",
+      "Maintain the Yamuna Eco-System"
+    ],
+    "BJP": [
+      "Make all necessary efforts, in coordination with the Central Government, to control air pollution and improve the quality of air in Delhi.",
+      "Install WAYU equipment at polluted traffic junctions for purification of air and Air Purifying Towers all across Delhi.",
+      "Install 'Pari-Yantra' air purification systems on the rooftops of all public transport buses.",
+      "Incentivize the use of electric vehicles to reduce pollution.",
+      "Erect sophisticated and scientifically designed barriers in schools to protect school children and public against noise and air pollution."
+    ],
+    "CONG": [
+      "Ensure 100% sewage treatment and install smaller treatment mechanisms at the source and larger plants closer to the Yamuna.",
+      "Get non-polluting industries back in Delhi by providing industrial power at a tariff rate of ₹6/unit.",
+      "Promote non-polluting household industries.",
+      "Plant evergreen trees wherever necessary in a time-bound manner.",
+      "Launch an awareness campaign to encourage terrace and vertical gardens on private properties."
+    ]
+  },
+  "Inflation & Cost of Living": {
+    "AAP": [
+      "Continue 200 units of free electricity",
+      "Continue 20 kilolitres of free water every month",
+      "Continue free bus ride for women",
+      "Provide affordable healthcare facilities",
+      "Introduce doorstep delivery of ration"
+    ],
+    "BJP": [
+      "Provide Aata (wheat flour) to poor families at a subsidized rate of Rs. 2 per kilogram.",
+      "Establish a 'CM Jan Kalyan Kosh' to ensure availability of essential food items at stable prices through direct market interventions."
+    ],
+    "CONG": [
+      "Provide free electricity up to 300 units, 50% discount for 300-400 units, 30% discount for 400-500 units, and 25% discount for 500-600 units.",
+      "Provide 3 kg dal at ₹25 per kg and 1 litre edible oil at ₹20 to each BPL family every month.",
+      "Check the artificial rise of prices of essential commodities by hoarders through vigilance and selling these at cheaper rates through government outlets.",
+      "Offer fresh and nutritious meals at a subsidized rate of ₹15 at 100 Indira Canteens run by women staff.",
+      "Launch 'Yuva Swabhiman Yojana', an unemployment allowance of ₹5,000 per month for graduate youth and ₹7,500 per month for postgraduate youth registered in Employment Exchanges."
+    ]
+  },
+  "Employment & Job Creation": {
+    "AAP": [
+      "Introduce spoken English, soft skills and personality development classes for students to raise their employment opportunities",
+      "Connect housewives with job and business opportunities",
+      "Provide women access to cheap capital and requisite skills",
+      "Appoint new Safai Karmacharis as per the 2011 census",
+      "Create new tourist destination by developing Yamuna riverside"
+    ],
+    "BJP": [
+      "Provide employment opportunities to at least 10 lakh youth in the next five years.",
+      "Fill up all vacant posts in government departments and subordinate offices within the first year.",
+      "Sanction new posts to fill the shortage of staff in government departments and fill these posts promptly.",
+      "Ensure 100% placement for graduates of 'Vishwakarma Kaushal Vikas Vishwavidyalay'.",
+      "Make Delhi a services hub of international standing and initiate a new scheme to bring prosperity and increase employment through development of the services sector."
+    ],
+    "CONG": [
+      "Launch 'Yuva Swabhiman Yojana', an unemployment allowance for youth registered in Employment Exchanges.",
+      "Establish a network of 'Skill Training and Internship Programmes' in cooperation with the private sector.",
+      "Hold periodic placement camps in partnership with the private sector.",
+      "Fill all vacant posts in Delhi Government in the first 6 months.",
+      "Launch \"Yaari Startup Incubation Fund\", a ₹5000 Cr corpus to incentivize young entrepreneurs to open Startups."
+    ]
+  },
+  "Education": {
+    "AAP": [
+      "Make world-class education facility available for every child",
+      "Introduce Deshbhakti Curriculum in Delhi government schools",
+      "Provide spoken english, soft skills and personality development classes for students",
+      "Build new schools using land freed up by full statehood",
+      "Continue focus on education"
+    ],
+    "BJP": [
+      "Increase the education budget by 10% every year.",
+      "Open 200 more schools to meet the goal of Sarva Shiksha and revive the concept of neighbourhood schools.",
+      "Open 10 new colleges in Delhi and start new Post Graduate courses.",
+      "Establish special libraries in Jhuggi areas for students living in Jhuggi-Jhopdi areas.",
+      "Establish 1000 Atal Tinkering Labs in schools in Delhi."
+    ],
+    "CONG": [
+      "Implement \"Right to Quality Education” to ensure quality education at par with global best practices.",
+      "Provide subsidized education for students living in notified slums and resettlement colonies until Class 12.",
+      "Provide free girl education in government schools and colleges, from Nursery to PhD under the Ladli Scheme.",
+      "Ensure full spending of budgetary allocation in the education sector.",
+      "Increase the enrolment in Delhi Government and government-aided schools."
+    ]
+  },
+  "Healthcare": {
+    "AAP": [
+      "Provide holistic healthcare facilities to every family through Mohalla Clinics and state-of-the-art hospitals",
+      "Provide affordable, accessible and advanced healthcare facilities",
+      "Build new hospitals using land freed up by full statehood",
+      "Set up Mohalla clinics in unauthorised colonies",
+      "Continue focus on health"
+    ],
+    "BJP": [
+      "Implement the Ayushman Bharat Yojana in Delhi to provide free treatment of upto Rs. 5 lakh to the people of Delhi.",
+      "Increase the health budget by 10% every year.",
+      "Transform and modernize all Delhi government hospitals to provide 21st century health care.",
+      "Establish 400 Health & Wellness Centres across Delhi.",
+      "Launch a new 'Mission Zero' to ensure that diseases like Dengue, Chikungunya and Malaria do not claim any lives in Delhi."
+    ],
+    "CONG": [
+      "Build ten super-specialty hospitals in Delhi in the next five years and add 5,000 new maternity beds.",
+      "Establish 2 new medical colleges in rural Delhi and add 300 more medical seats.",
+      "Increase the number of dispensaries to 3,000, including facilities for pathology and testing.",
+      "Implement policies to ensure 24-hour functional diagnostic machines in government facilities.",
+      "Provide for expenditure incurred on diagnostics in private facilities where such facilities are unavailable in government hospitals."
+    ]
+  },
+  "Public Transport & Traffic management": {
+    "AAP": [
+      "Provide public transportation system with over 11,000 buses and over 500 km metro stretch",
+      "Make free bus ride scheme available to students along with women",
+      "Extend Delhi's metro network to 500 km and connect several new areas",
+      "Redesign Delhi's roads starting with a pilot of 40 km of roads within a year",
+      "Provide last-mile connectivity through expanded public transport"
+    ],
+    "BJP": [
+      "Expedite the work on the three under-construction lines of Metro Phase-IV and ensure speedy approval for the other three proposed lines.",
+      "Add 10,000 new Green Buses fitted with all modern facilities to the public transport fleet.",
+      "Review and rationalise the routes of DTC buses in a holistic manner and increase the frequency of night buses.",
+      "Introduce double decker DTC buses in Delhi which are air-conditioned, equipped with video and are Wi-Fi enabled.",
+      "Develop and expand multi storey parkings all across the city in Private Public Partnership (PPP) mode."
+    ],
+    "CONG": [
+      "Provide special training and recruitment of women drivers and conductors for DTC buses.",
+      "Provide training and facilitate the issuance of badges for women auto-rickshaw and taxi drivers.",
+      "Ensure multi-modal end-to-end connectivity with all-weather roads and carry out regular repair and maintenance works.",
+      "Expand infrastructure projects like flyovers, bridges, under-bridges, foot-over bridges, elevated roads, and subways.",
+      "Ensure user-friendly pavements for all pedestrians."
+    ]
+  },
+  "Water Supply": {
+    "AAP": [
+      "Make 24-hour pure piped water available to every household",
+      "Continue the scheme of providing 20,000 litres of free water for every household",
+      "Provide clean drinking water to unauthorised colonies",
+      "Clean and rejuvenate Yamuna",
+      "Develop a beautiful riverside along the banks of Yamuna"
+    ],
+    "BJP": [
+      "Make dedicated efforts towards providing clean water on tap for every household by 2024.",
+      "Make all efforts to ensure that the purity and quality of water in Delhi is in line with global benchmarks.",
+      "Encourage water harvesting by private citizens through due incentives and ensure rain water harvesting infrastructure on all government buildings.",
+      "Incentivize housing societies and hotels to set up waste water recycling plants.",
+      "Take effective action for speedy construction of Renuka Dam in Himachal Pradesh for easing the water shortage in Delhi."
+    ],
+    "CONG": [
+      "Launch 'Paani Bachao, Paisa Kamao' scheme, providing cashback to households conserving water.",
+      "Ensure that every household in Delhi gets clean drinking water and work towards 24-hour water supply.",
+      "Ensure 100% water treatment and install smaller sewage treatment mechanisms at the source and bigger plants closer to the Yamuna.",
+      "Plug leakages and pilferages by the water tanker mafia.",
+      "Improve management of available water resources."
+    ]
+  },
+  "Electricity": {
+    "AAP": [
+      "Ensure 24 hours uninterrupted power supply",
+      "Continue free electricity up to 200 units",
+      "Bring underground cable to every household"
+    ],
+    "BJP": [
+      "Create a Smart Electricity Grid for Delhi to ensure better reliability and quality of power supply.",
+      "Ensure an annual audit of all power companies.",
+      "Incentivize installation of solar panels in houses, colonies, offices and factories and facilitate the integration of these panels into the energy grid.",
+      "Replace conventional water booster pumps by hybrid Solar Grid Pumps and convert conventional street light poles to solar-operated Smart Poles.",
+      "Ensure adequate and affordable availability of power to residents of Jhuggi-Jhopdi clusters by installation of Suryajyoti Domes."
+    ],
+    "CONG": [
+      "Launch 'Bijli Bachao, Paisa Kamao' scheme, providing cash rebates to households conserving electricity.",
+      "Provide free electricity up to 300 units and discounted rates for consumption between 300-600 units.",
+      "Provide industrial power at a tariff rate of ₹6/unit, inclusive of all municipal taxes and surcharges.",
+      "Charge domestic power tariff rates for professional activities permitted in residential areas.",
+      "Provide free electricity up to 200 units to small shops/commercial establishments with a connected load of less than 5 kW."
+    ]
+  },
+  "Waste management & Sanitation": {
+    "AAP": [
+      "Make Delhi garbage and debris-free",
+      "Appoint new Safai Karmacharis",
+      "Award a compensation of Rs 1 Crore to families of Safai Karmacharis who die while performing duty",
+      "Provide sewage system in unauthorised colonies",
+      "Clean and rejuvenate Yamuna"
+    ],
+    "BJP": [
+      "Make efforts to rid Delhi of the heaps of garbage.",
+      "Constitute a Delhi Sanitation Task Force to speed up work by coordinating the tasks of various civic agencies responsible for cleanliness.",
+      "Formulate a comprehensive plan for management of all categories of waste through coordination between the State Government, Central Government and Municipal Corporations.",
+      "Develop Delhi as a model city in e-waste management.",
+      "Deploy advanced scientific technology for 'waste to wealth' and 'resource creation' approaches to waste disposal."
+    ],
+    "CONG": [
+      "Ensure 100% sewage treatment and install smaller treatment mechanisms at the source and bigger plants closer to the Yamuna.",
+      "Provide adequate safety gear to Safai Karamcharis, including proper gloves and masks.",
+      "Hold agencies and officers liable for punishment who engage in or perpetuate manual cleaning of sewers.",
+      "Ensure basic facilities for Safai Karamcharis, like sheds and drinking water.",
+      "Ensure that the number of Safai Karamcharis is commensurate with the increasing population."
+    ]
+  },
+  "Women's Safety & Empowerment": {
+    "AAP": [
+      "Appoint 'Mohalla Marshals' for enhanced security",
+      "Install CCTV cameras, streetlights, and Bus Marshals",
+      "Connect housewives with job and business opportunities",
+      "Provide women access to cheap capital and requisite skills",
+      "Continue free bus ride for women"
+    ],
+    "BJP": [
+      "Start a new scheme to deposit a fixed amount on the birth of the first 2 girls in every economically weak family, so that they can receive a benefit of Rs. 2 lakh when they attain the age of 21.",
+      "Create a special corpus for providing financial assistance to meritorious young women who wish to pursue higher education.",
+      "Give a bicycle to each girl from economically weaker sections studying in classes between 9-12.",
+      "Give an Electric Scooty to poor girls enrolling in colleges.",
+      "Launch a new 'Rani Laxmibai Mahila Suraksha Yojana' to ensure dedicated efforts and adequate resources for safety and security of women."
+    ],
+    "CONG": [
+      "Implement 33% reservation for women in government sector jobs and endeavor to achieve the same in educational institutions and the private sector.",
+      "Provide free girl education in government schools and colleges, from Nursery to PhD.",
+      "Revive the 181 women's helpline and bring it back under the Chief Minister's office.",
+      "Ensure strict implementation of Vishakha guidelines by companies in Delhi.",
+      "Work with the Central Government to ensure that 63 Fast Track Courts become functional within the year."
+    ]
+  },
+  "Business, Trade & Industry": {
+    "AAP": [
+      "Continue providing a free and fair business environment without raid raj",
+      "Take legal and administrative measures to prevent sealing of industries/shops and ensure that the sealed shops are opened",
+      "Allocate adequate funds for infrastructure development and upgradation of market and industrial areas",
+      "Carry out a comprehensive review and rationalization of circle rates",
+      "Bring out an amnesty scheme to dispose off old VAT cases"
+    ],
+    "BJP": [
+      "Set up a Traders Board at the state level to serve as a forum for coordination between traders and the government.",
+      "Take all administrative and legal steps to address the problems being faced by residents of Delhi due to the sealing drive.",
+      "Convert 10 lakh offices and shops of traders in Delhi from leasehold to freehold on priority basis.",
+      "Grant all registered traders/entrepreneurs the benefit of accident insurance.",
+      "Make Delhi a Services Hub of international standing and initiate a new scheme to bring prosperity and increase employment through development of the services sector."
+    ],
+    "CONG": [
+      "Approach the GST Council to simplify and rationalize the GST structure.",
+      "Ensure no illegal sealing of shops, establishments, and household industries.",
+      "Revise the definition of household industries based on changing needs and technology.",
+      "Incentivize and encourage the adoption of the latest technology among business units.",
+      "Allow change of trade and industry in newly developed industrial areas like Bavana and Narela for non-polluting industries."
+    ]
+  },
+  "Corruption": {
+    "AAP": [
+      "Continue the struggle to get the Delhi Jan Lokpal Bill passed by the Central government",
+      "Introduce doorstep delivery of ration to ensure transparency and accountability",
+      "Empower Mohalla Sabhas to solve day-to-day issues and improve transparency"
+    ],
+    "BJP": [
+      "Provide a clean and honest government to the people of Delhi.",
+      "Make Lokpal Act a priority in Delhi.",
+      "Ensure strict provisions to deal with corruption and establish fast track courts to process such cases quickly.",
+      "Implement Citizen Charters effectively in every government department and organization.",
+      "Transition all processes to the digital domain to increase transparency while reducing corruption."
+    ],
+    "CONG": [
+      "Pass a Lokpal Bill within the first six months, on the lines of the Lokpal Bill passed by the UPA Government.",
+      "Ensure that the Lokpal has powers to initiate action on complaints against the Chief Minister, ministers, and bureaucracy.",
+      "Ensure all MLAs declare their immovable properties on 1st January every year.",
+      "Revamp the e-governance structure of GNCDT and follow a system of 'OPEN GOVERNANCE'.",
+      "Ensure that DISCOM accounts are audited by the CAG."
+    ]
+  },
+  "Housing": {
+    "AAP": [
+      "Provide pucca housing to slum-dwellers",
+      "Pursue the Central government to ensure full ownership rights with freehold status for residents of resettlement colonies",
+      "Continue to put pressure on Central government to ensure regularization and proper registries for houses in unauthorised colonies"
+    ],
+    "BJP": [
+      "Provide pucca houses to all residents of Delhi by 2022.",
+      "Implement Pradhan Mantri Awas Yojana (PMAY) on priority.",
+      "Make affordable modern housing available to people from low and middle income groups.",
+      "Ensure the development of all Jhuggi Bastis in Delhi and provide residents of Jhuggis with Pucca houses equipped with all modern amenities on a permanent basis.",
+      "Formulate a policy to support Group Housing Societies for redevelopment of old flats in these societies."
+    ],
+    "CONG": [
+      "Ensure each family living in JJ clusters gets a flat of 350 sq ft through in-situ rehabilitation.",
+      "Regularize all unauthorized colonies and spend ₹35,000 crore in five years for their upliftment.",
+      "Provide ownership rights to residents of unauthorized colonies.",
+      "Carry out the registration of properties in unauthorized colonies on a war footing.",
+      "Provide electricity connections to every building irrespective of height and number of floors."
+    ]
+  },
+  "Urban Infrastructure Development": {
+    "AAP": [
+      "Provide unauthorised colonies with good roads, clean drinking water, sewage system, Mohalla clinics, and CCTV cameras",
+      "Redesign Delhi's roads starting with a pilot of 40 km of roads within a year",
+      "Extend Delhi's metro network to 500 km",
+      "Develop a beautiful riverside along the banks of Yamuna",
+      "Allocate adequate funds for infrastructure development and upgradation of market and industrial areas"
+    ],
+    "BJP": [
+      "Initiate a 'Samriddh Delhi Infrastructure Scheme' with a provision of Rs 10,000 crore to ensure 'ease of living' for the residents of Delhi.",
+      "Formulate a special scheme for the rapid development of neglected and underdeveloped areas.",
+      "Equip road junctions with high-volume with flyover bridges and construct FOBs at such junctions.",
+      "Construct over bridges and under passes on busy railway crossings to prevent traffic jams.",
+      "Convert all existing street light poles to Smart Poles with mounted solar panels, CCTV cameras, Wi-Fi and pollution monitoring equipment."
+    ],
+    "CONG": [
+      "Involve top urban planners and architects to suggest models for redeveloping Delhi.",
+      "Ensure user-friendly pavements for all commuters on foot.",
+      "Ensure better coordination between PWD and MCD for effective drainage management.",
+      "Ensure multi-modal end-to-end connectivity with all-weather roads sans potholes.",
+      "Expand infrastructure projects like flyovers, bridges, under-bridges, foot-over bridges, elevated roads, and subways."
+    ]
+  }
+}

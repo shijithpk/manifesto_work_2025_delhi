@@ -228,14 +228,14 @@ def get_merged_json_prompt(party_list):
 	
 	return merged_json_prompt
 
-party_list = ['aap', 'bjp']  # or ['aap', 'bjp', 'cong']
+party_list = ['aap', 'bjp', 'cong']
 merged_json_prompt = get_merged_json_prompt(party_list)
 merged_json_response = all_party_chat.send_message(merged_json_prompt)
 
-output_filename = 'manifestos/comparison_text_raw.json'
+output_filename = 'manifestos/comparison_2025_raw.json'
 
 with open(output_filename, 'w', encoding='utf-8') as f:
 	f.write(merged_json_response.text)
 
-cleaned_filename = 'manifestos/comparison_text.json'
+cleaned_filename = 'manifestos/comparison_2025.json'
 clean_file(output_filename, cleaned_filename)

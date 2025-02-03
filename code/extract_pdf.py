@@ -151,14 +151,14 @@ def extract_pdf_content(year, state, party):
 			print("Erroring out.")
 			break
 
-		time.sleep(10)
+		time.sleep(20)
 
 	write_markdown_file(combined_markdown, output_filename)
 
 	cleaned_filename = f'manifestos/{year}_{state}_{party}.md'
 	clean_file(output_filename, cleaned_filename)
 
-extract_pdf_content('2025', 'dl', 'bjp')
+extract_pdf_content('2025', 'dl', 'cong')
 
 # once all pdfs are there, do loop
 # for party in ['bjp', 'aap', 'cong']:
